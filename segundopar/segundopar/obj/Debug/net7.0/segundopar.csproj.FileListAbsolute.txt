@@ -1,0 +1,15 @@
+C:\Users\Vito\Desktop\Parcial\parcial 2\segundopar\segundopar\bin\Debug\net7.0\segundopar.exe
+C:\Users\Vito\Desktop\Parcial\parcial 2\segundopar\segundopar\bin\Debug\net7.0\segundopar.deps.json
+C:\Users\Vito\Desktop\Parcial\parcial 2\segundopar\segundopar\bin\Debug\net7.0\segundopar.runtimeconfig.json
+C:\Users\Vito\Desktop\Parcial\parcial 2\segundopar\segundopar\bin\Debug\net7.0\segundopar.dll
+C:\Users\Vito\Desktop\Parcial\parcial 2\segundopar\segundopar\bin\Debug\net7.0\segundopar.pdb
+C:\Users\Vito\Desktop\Parcial\parcial 2\segundopar\segundopar\obj\Debug\net7.0\segundopar.csproj.AssemblyReference.cache
+C:\Users\Vito\Desktop\Parcial\parcial 2\segundopar\segundopar\obj\Debug\net7.0\segundopar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vito\Desktop\Parcial\parcial 2\segundopar\segundopar\obj\Debug\net7.0\segundopar.AssemblyInfoInputs.cache
+C:\Users\Vito\Desktop\Parcial\parcial 2\segundopar\segundopar\obj\Debug\net7.0\segundopar.AssemblyInfo.cs
+C:\Users\Vito\Desktop\Parcial\parcial 2\segundopar\segundopar\obj\Debug\net7.0\segundopar.csproj.CoreCompileInputs.cache
+C:\Users\Vito\Desktop\Parcial\parcial 2\segundopar\segundopar\obj\Debug\net7.0\segundopar.dll
+C:\Users\Vito\Desktop\Parcial\parcial 2\segundopar\segundopar\obj\Debug\net7.0\refint\segundopar.dll
+C:\Users\Vito\Desktop\Parcial\parcial 2\segundopar\segundopar\obj\Debug\net7.0\segundopar.pdb
+C:\Users\Vito\Desktop\Parcial\parcial 2\segundopar\segundopar\obj\Debug\net7.0\segundopar.genruntimeconfig.cache
+C:\Users\Vito\Desktop\Parcial\parcial 2\segundopar\segundopar\obj\Debug\net7.0\ref\segundopar.dll
